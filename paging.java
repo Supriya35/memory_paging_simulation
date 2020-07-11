@@ -2,7 +2,8 @@ import java.lang.Math;
 import java.util.Scanner;
 public class Main{
      public static void main(String[] args) {
-//hard disk
+//test
+	     //hard disk
         RandomIntegers[] hdlist = new RandomIntegers[100];
 
         //Generates 100 Random Numbers in the range 1 -100
